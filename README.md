@@ -6,8 +6,6 @@ This system was created with Content based filtering. This filtering technique u
 It uses a Machine Learning technique called **Clustering**.  \
 Specifically, it uses clustering based on K Nearest Neighbours where the system finds 'More Like This' data points based on available features.
 
-![Streamlit](assets/strmlit.png)
-
 ### Data
 The system is not using a readily available dataset, but instead was collected from the very popular VGChartz!  \
 Using Python's BeautifulSoup package, the data was scraped and transformed into a dataframe, then to a csv file. See `data/scraper.py`  \
