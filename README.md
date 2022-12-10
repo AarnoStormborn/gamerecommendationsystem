@@ -6,7 +6,7 @@ This system was created with Content based filtering. This filtering technique u
 It uses a Machine Learning technique called **Clustering**.  \
 Specifically, it uses clustering based on K Nearest Neighbours where the system finds 'More Like This' data points based on available features.
 
-![Streamlit Web App](assets\strmlit.png) 
+![Streamlit Web App](assets\strmlit.jpg) 
 
 ### Data
 The system is not using a readily available dataset, but instead was collected from the very popular VGChartz!  \
