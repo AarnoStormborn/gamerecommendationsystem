@@ -1,6 +1,6 @@
 # Game Recommendation System
 
-### Say Hello to ...
+### Say Hello to ..
 **A video game recommendation system created for every gamer. Finished a game but left wanting for more? Find more!!!**  \
 This system was created with Content based filtering. This filtering technique uses similarities between data points to find the closest, best possible recommnedations. It is one of the two major methods used widely.  \
 It uses a Machine Learning technique called **Clustering**.  \
